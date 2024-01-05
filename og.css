@@ -1,0 +1,31 @@
+body{
+    background: rgb(80, 76, 76);
+}
+
+#D{
+    display: flex;
+    margin: auto;
+    width: 40%;
+    margin-top: 10%;
+    column-gap: 40px;
+}
+#h1{
+    position: relative;
+    top: 1px;
+    margin: auto;
+    width: 30%;
+    /* border: 0.5px solid gray; */
+    background: rgb(23, 21, 21);
+    text-align: center;
+    box-shadow: 0px 3px rgb(168, 164, 164);
+    color: aliceblue;
+    width: 1580px;
+}
+button:hover{
+    background: black !important;
+
+}
+
+#d::shadow{
+    background-color: beige;
+}
